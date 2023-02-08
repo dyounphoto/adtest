@@ -3,5 +3,5 @@ var animation = bdoymovin.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'data.json'
+    path: 'https://github.com/dyounphoto/adtest.git/data.json'
 })
